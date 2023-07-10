@@ -1,0 +1,9 @@
+export { default as Navbar } from "./Navbar";
+export { default as Loader } from "./Loader";
+export { default as Coin } from "./Coin";
+export { default as Home } from "./Home";
+export { default as Exchange } from "./Exchange";
+export { default as News } from "./News";
+export { default as Tab } from "./Tabs";
+export { default as Footer } from "./Footer";
+export { default as SearchCoin } from "./SearchCoin";
