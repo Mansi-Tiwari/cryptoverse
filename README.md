@@ -2,6 +2,10 @@
 
 This website serves as a platform for users to explore and stay updated on various aspects of the cryptocurrency world. Users can create an account, sign in, and access a range of features including viewing crypto exchange information, reading the latest news related to cryptocurrencies, and checking global market data.
 
+
+![image](https://github.com/Mansi-Tiwari/cryptoverse/assets/78271543/dc282fad-69dc-42a4-907a-172c75f98a07)
+
+
 ## Usage
 
 1. Sign Up:
