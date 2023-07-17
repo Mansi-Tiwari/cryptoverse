@@ -1,8 +1,10 @@
-# Cryptoverse Website Documentation
+# Cryptoverse 
+
+![Animation](https://github.com/Mansi-Tiwari/cryptoverse/assets/78271543/0f2e1757-5e7c-46c5-bb6d-a93b0c16aaaf)
+
 
 This website serves as a platform for users to explore and stay updated on various aspects of the cryptocurrency world. Users can create an account, sign in, and access a range of features including viewing crypto exchange information, reading the latest news related to cryptocurrencies, and checking global market data.
 
-![Animation](https://github.com/Mansi-Tiwari/cryptoverse/assets/78271543/0f2e1757-5e7c-46c5-bb6d-a93b0c16aaaf)
 
 ## Usage
 
@@ -25,3 +27,10 @@ This website serves as a platform for users to explore and stay updated on vario
    - Select a specific cryptocurrency from the available options.
    - Gain insights into the market stats, details about the coin, and view charts representing trading trends.
    - Adjust the time frame (24 hours, 7 days, 3 months, or 1 year) to analyze the historical trends of the cryptocurrency.
+
+## Feedback and Support
+
+If you have any feedback, suggestions, or issues regarding the website, please feel free to open an issue in the GitHub repository.
+## License
+
+This project is licensed under the [MIT License](LICENSE).
